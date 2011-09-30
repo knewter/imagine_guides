@@ -1,0 +1,15 @@
+title: Imagine Guides
+description: Imagine is a rails engine for drop-in
+             Image Albums.
+
+authors:
+  Documentation Team:
+    - name: Josh Adams
+      nick: jadams
+      description: Josh started Imagine and the guides for it.
+
+index:
+  Start Here:
+    - title: Getting Started
+      url: getting_started
+      text: Everything you need to know to mount Imagine in your application.
